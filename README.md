@@ -1,4 +1,9 @@
 
+![alt text](https://github.com/prashansa/InsightDataScience/blob/master/TrendBytes/TrendBytes/static/trendbyteslogo.png "logo text"
+
+
+
+
 # TrendBytes
 Bringing Social Media to You
 
