@@ -1,5 +1,11 @@
 
-![alt text](https://github.com/prashansa/InsightDataScience/blob/master/TrendBytes/TrendBytes/static/trendbyteslogo.png "logo text")
+<p align="center">
+<img src="https://github.com/prashansa/InsightDataScience/blob/master/TrendBytes/TrendBytes/static/trendbyteslogo.png" width="400" height="150">
+</p>  
+
+
+
+
 
 
 
