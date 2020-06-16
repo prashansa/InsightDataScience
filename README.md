@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/prashansa/InsightDataScience/blob/master/TrendBytes/TrendBytes/static/trendbyteslogo.png "logo text"
+![alt text](https://github.com/prashansa/InsightDataScience/blob/master/TrendBytes/TrendBytes/static/trendbyteslogo.png "logo text")
 
 
 
