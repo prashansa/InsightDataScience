@@ -2,7 +2,7 @@ from flask import Flask
 from flask import render_template
 from flask import request
 
-from myInsightApp import app 
+from TrendBytes import app 
 
 
 # from myInsightApp import functions_file
