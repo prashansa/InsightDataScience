@@ -8,7 +8,7 @@
 
 
 # TrendBytes
-Bringing Social Media to You
+An App that promises to add value to your business by leveraging trends on the web. 
 
 ### Think.. 
 There are a lot of times when you might have wished, that the amazing local bakery shop down the street, magically start selling your favorite strawberry cheesecake. 
