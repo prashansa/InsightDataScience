@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/prashansa/InsightDataScience/blob/master/TrendBytes/TrendBytes/static/trendbytes-newlogo.png" width="400" height="150">
+<img src="https://github.com/prashansa/InsightDataScience/blob/master/TrendBytes/TrendBytes/static/images/logo-v3-tealbg.png" width="400" height="150">
 </p>  
 
 
