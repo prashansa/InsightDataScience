@@ -137,17 +137,17 @@ def writeCSV(aList, csvFile):
 
 
 
-# def getGeo(d):
-#     output = [('date', 'tweet', 'lat', 'long')]
-#     for item in d:
-#         try:
-#             lat = item['geo']['coordinates'][0]
-#             long = item['geo']['coordinates'][1]
-#             date = item['created_at']
-#             text = item['text'].encode('utf-8')
-#             output.append((date, text, lat, long))
+def getGeo(d):
+    output = [('date', 'tweet', 'lat', 'long')]
+    for item in d:
+        try:
+            lat = item['geo']['coordinates'][0]
+            long = item['geo']['coordinates'][1]
+            date = item['created_at']
+            text = item['text'].encode('utf-8')
+            output.append((date, text, lat, long))
        
-#     return output
+    return output
 
 
 
