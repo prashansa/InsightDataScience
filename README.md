@@ -42,12 +42,17 @@ For the case of a bakery owner, lets assume a searchword "cake", with date as ye
 
 
 
+<table>
+  <tr>
+    <td>THE IN DEMAND CATEGORY</td>
+     <td>THE DISLIKED CATEGORY</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/prashansa/InsightDataScience/blob/master/TrendBytes/TrendBytes/static/images/newwordcloud-positive.png" width="450" height="250" title="IN DEMAND"> </td>
+<td><img src="https://github.com/prashansa/InsightDataScience/blob/master/TrendBytes/TrendBytes/static/images/newordcloud-negative.png" width="450" height="250" title="DISLIKED"> </td>
 
-<p float="center">
-<img src="https://github.com/prashansa/InsightDataScience/blob/master/TrendBytes/TrendBytes/static/images/newwordcloud-positive.png" width="49%" height="250" title="IN DEMAND" />
-<img src="https://github.com/prashansa/InsightDataScience/blob/master/TrendBytes/TrendBytes/static/images/newordcloud-negative.png" width="49%" height="250" title="DISLIKED"/>
-</p>  
-
+ </tr>
+ </table>
 
 
 
@@ -76,7 +81,7 @@ For next steps,
 
 # Insight Data Science
 
-This project was made during the Insight Data Science (Toronto) program, within 4 weeks. 
+This project was made during the Insight Data Science (Toronto) program, within 3 weeks (ONLY!) 
 
 * Week 1 was brainstorming projects that solve a business problem. 
 
@@ -84,10 +89,7 @@ This project was made during the Insight Data Science (Toronto) program, within 
 
 * Week 3 involved more focus on adding validation to the machine learning models used and making a live app hosted online, and presenting a Minimal Viable Demo. 
 
-* Week 4 was about polishing that demo and improving the business pitch with recognition of pitfalls and applicability of the product. 
-
-
-
+* Week 4 to 7 focus on polishing business pitch, interview prep and coding tests. 
 
 
 
