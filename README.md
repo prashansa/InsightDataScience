@@ -40,6 +40,20 @@ For the case of a bakery owner, lets assume a searchword "cake", with date as ye
 
 * The disliked category can be used as a disclaimer, so that the owner understands why sales associated with those products might be low. 
 
+
+
+
+<p float="center">
+<img src="https://github.com/prashansa/InsightDataScience/blob/master/TrendBytes/TrendBytes/static/images/newwordcloud-positive.png" width="49%" height="250" title="IN DEMAND" />
+<img src="https://github.com/prashansa/InsightDataScience/blob/master/TrendBytes/TrendBytes/static/images/newordcloud-negative.png" width="49%" height="250" title="DISLIKED"/>
+</p>  
+
+
+
+
+
+
+
 #### Every day use of this app can help the local shop owner understand the trends of the neighbourhood, country and the global industry as whole. The local trends will help them cater specifically to the local needs, and global trends help them evolve and diversify their menu instead of being the frog in the well. 
 
 #### This app is especially useful when shop owners rely on word of mouth for running their business, they can now inform their business and optimize according to the market. 
