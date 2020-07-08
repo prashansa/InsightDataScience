@@ -15,7 +15,7 @@ There are a lot of times when you might have wished, that the amazing local bake
 
 If you are that bakery owner, you might have come across times where you felt that people are not buying what you are selling. 
 
-### The Challenge
+### The Problem
 The key to finding buyers is to actually listen to them. In this digital era, especially post covid-19, every person is living their life online. This means that the shop owners have to be online, listening to what the market is saying. 
 
 But, local shop owners may not necessarily be social-media savvy, or may not have the capital or personnel to dedicate on social media R&D on an everyday basis. 
@@ -62,10 +62,17 @@ For the case of a bakery owner, lets assume a searchword "cake", with date as ye
 ### Possible Expansions
 For next steps, 
 
-1. Implement real time data obtained from Twitter API
-2. Expand to other platforms - Add Instagram and Facebook APIs
-3. Add image based search - where the owner can search for "cake image" rather than text, for new design inspirations and checking whether people are liking those designs or not. 
-4. Extend to Google News API - so that the owner can input information about themselves and their employees and stay informed on relevant news items. For example, they could be informed about new wage subsidy programs introduced by the Canadian govt during covid-19 pandemic that will be directly relevant to the employees. 
+1. Elasticsearch (ELK stack) - does not work in the current status. I tried implementing it for 3 days only. Needs more time. Which is why the json files for tweets are loaded and read sequentially, that makes the entire pipeline really slow. ELK will index each tweet json file, and make the search real - time. This is the next immediate step. 
+
+2. The dataset is only limited to 7 days spritzer version from https://archive.org/details/twitterstream. Once the above step is complete, more data can be stored on AWS, which will give access to more days of data. 
+
+3. Twitter API developer account was recently approved (July 4, 2020). This API will be connected to the pipeline on AWS, so real time data can be input. 
+
+4. Expand to other platforms - Add Instagram and Facebook APIs
+
+5. Add image based search - where the owner can search for "cake image" rather than text, for new design inspirations and checking whether people are liking those designs or not. 
+
+6. Extend to Google News API - so that the owner can input information about themselves and their employees and stay informed on relevant news items. For example, they could be informed about new wage subsidy programs introduced by the Canadian govt during covid-19 pandemic that will be directly relevant to the employees. 
 
 # Insight Data Science
 
