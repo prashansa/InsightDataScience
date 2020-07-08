@@ -25,6 +25,14 @@ There is a need for a solution that can empower the local shop owners. What if a
 
 TrendBytes obtains its data from Twitter, asks the owner to input a searchword relevant to their business along with the dates in which they are interested, and then spits out the most loved and the least favorite topics in the form of eye catching wordclouds. 
 
+
+### How was the app developed? 
+
+<p align="center">
+<img src="https://github.com/prashansa/InsightDataScience/blob/master/TrendBytes/TrendBytes/static/images/pipeline_trendBytes.png" width="700" height="400">
+</p>  
+
+
 ### How does TrendBytes work? 
 For the case of a bakery owner, lets assume a searchword "cake", with date as yesterday. The app gives two wordclouds categorized as favorite and disliked. 
 
